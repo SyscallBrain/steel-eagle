@@ -10,6 +10,7 @@ Defend the eagle, clear 50 stages, build your own maps and play co-op on one pho
 ![Kotlin](https://img.shields.io/badge/Kotlin-pure%20SDK-7F52FF?logo=kotlin&logoColor=white)
 ![Dependencies](https://img.shields.io/badge/runtime%20dependencies-0-blue)
 ![Tests](https://img.shields.io/badge/JVM%20tests-466-success)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
 <img src="docs/screenshots/nes-pad.jpg" alt="Gameplay with the NES-style cross pad and A/B buttons" width="820">
 
@@ -26,6 +27,10 @@ Defend the eagle, clear 50 stages, build your own maps and play co-op on one pho
 - **Controls that fit your hands.** Choose a round D-pad, a floating joystick, an NES-style cross pad with A/B, or a joystick with A/B. Game controllers and keyboards work too.
 - **Hand-made retro presentation.** Every sprite, the font, the music and the sound effects are original pixel art and real-time synthesis. There is an optional CRT scanline filter.
 - **No engine, no AndroidX.** Pure Kotlin on the Android SDK. The app has no runtime dependencies, and the APK is about 1 MB.
+
+## Download
+
+Grab the signed APK from the [latest release](https://github.com/SyscallBrain/steel-eagle/releases/latest) and open it on your phone (you may need to allow installs from your browser or file manager).
 
 ## Screenshots
 
@@ -211,6 +216,10 @@ The enemy roster accepts either counts (`B*14 F*4 P*2 A*0`) or an explicit order
 - Only the host records high scores, and LAN games use campaign stages only.
 - There is no host migration or automatic reconnect.
 - If Android kills the app, the game in progress and any unsaved editor work are lost. Settings, progress, high scores and saved maps are kept.
+
+## License
+
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Tiago Correia.
 
 ## Credits
 
