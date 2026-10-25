@@ -1,0 +1,42 @@
+# Steel Eagle original player tank: two track frames, facing up.
+# The atlas rotates each frame to right, down and left at load time.
+# K outline, D tread, L tread highlight, Y hull, . transparent.
+# The barrel is body-coloured so the facing stays visible on a black field.
+
+sprite tank_up_0
+......KYYK......
+......KYYK......
+......KYYK......
+...KYYYYYYYYK...
+.KDDKYYYYYYKDDK.
+.KDDKYYYYYYKDDK.
+.KDDKYYYYYYKDDK.
+.KDDKYYYYYYKDDK.
+.KDDKYYYYYYKDDK.
+.KDDKYYYYYYKDDK.
+.KDDKYYYYYYKDDK.
+.KDDKYYYYYYKDDK.
+.KDDKYYYYYYKDDK.
+.KDDKYYYYYYKDDK.
+.KKKKYYYYYYKKKK.
+..KKKKKKKKKKKK..
+end
+
+sprite tank_up_1
+......KYYK......
+......KYYK......
+......KYYK......
+...KYYYYYYYYK...
+.KLDKYYYYYYKLDK.
+.KDDKYYYYYYKDDK.
+.KLDKYYYYYYKLDK.
+.KDDKYYYYYYKDDK.
+.KLDKYYYYYYKLDK.
+.KDDKYYYYYYKDDK.
+.KLDKYYYYYYKLDK.
+.KDDKYYYYYYKDDK.
+.KLDKYYYYYYKLDK.
+.KDDKYYYYYYKDDK.
+.KKKKYYYYYYKKKK.
+..KKKKKKKKKKKK..
+end

@@ -1,0 +1,5 @@
+# Steel Eagle level start jingle (original).
+tempo 150
+square1 G4 2 C5 2 E5 2 G5 6 E5 2 G5 6
+square2 C4 2 E4 2 G4 2 C5 6 G4 2 C5 6
+triangle C3 4 G3 4 C4 8 R 4

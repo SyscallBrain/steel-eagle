@@ -1,0 +1,44 @@
+# Steel Eagle terrain tiles: 4x4 px pieces tiled over the 52x52 grid.
+# Brick, steel, water (two frames), trees (drawn over tanks) and ice.
+
+sprite terrain_brick
+ORRR
+RKKR
+RRRO
+RKKR
+end
+
+sprite terrain_steel
+LLLL
+LDDL
+LDDL
+LLLL
+end
+
+sprite terrain_water_0
+CCCC
+CSSC
+CSSC
+CCCC
+end
+
+sprite terrain_water_1
+SSSS
+SCCS
+SCCS
+SSSS
+end
+
+sprite terrain_trees
+GEGG
+GGEG
+EGGE
+GGEG
+end
+
+sprite terrain_ice
+WWWW
+WSSW
+WSSW
+WWWW
+end

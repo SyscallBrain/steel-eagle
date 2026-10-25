@@ -1,0 +1,40 @@
+# Enemy tank: white body so the renderer can tint it per type and HP.
+# Same silhouette as the player tank, rotated by the atlas.
+
+sprite enemy_up_0
+......KWWK......
+......KWWK......
+......KWWK......
+...KWWWWWWWWK...
+.KDDKWWWWWWKDDK.
+.KDDKWWWWWWKDDK.
+.KDDKWWWWWWKDDK.
+.KDDKWWWWWWKDDK.
+.KDDKWWWWWWKDDK.
+.KDDKWWWWWWKDDK.
+.KDDKWWWWWWKDDK.
+.KDDKWWWWWWKDDK.
+.KDDKWWWWWWKDDK.
+.KDDKWWWWWWKDDK.
+.KKKKWWWWWWKKKK.
+..KKKKKKKKKKKK..
+end
+
+sprite enemy_up_1
+......KWWK......
+......KWWK......
+......KWWK......
+...KWWWWWWWWK...
+.KLDKWWWWWWKLDK.
+.KDDKWWWWWWKDDK.
+.KLDKWWWWWWKLDK.
+.KDDKWWWWWWKDDK.
+.KLDKWWWWWWKLDK.
+.KDDKWWWWWWKDDK.
+.KLDKWWWWWWKLDK.
+.KDDKWWWWWWKDDK.
+.KLDKWWWWWWKLDK.
+.KDDKWWWWWWKDDK.
+.KKKKWWWWWWKKKK.
+..KKKKKKKKKKKK..
+end

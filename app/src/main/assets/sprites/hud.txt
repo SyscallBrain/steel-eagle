@@ -1,0 +1,23 @@
+# Side-panel icons: enemy tank and stage flag, both 8x8.
+
+sprite hud_enemy
+..KKKK..
+.KWWWWK.
+KWWWWWWK
+KWWWWWWK
+KWWWWWWK
+KWWWWWWK
+.KWWWWK.
+..KKKK..
+end
+
+sprite hud_flag
+.K......
+.KYYY...
+.KYYYY..
+.KYYYY..
+.KYYY...
+.K......
+.K......
+.K......
+end

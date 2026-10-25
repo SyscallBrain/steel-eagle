@@ -1,0 +1,34 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android
+local.properties
+*.apk
+*.aab
+*.keystore
+*.jks
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Logs and scratch
+*.log
+.superpowers/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Internal planning notes (kept local)
+PLAN.md
